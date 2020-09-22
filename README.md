@@ -1,7 +1,7 @@
 # EpsilonApp
-A demo on using Githubthi
+A demo on using Github
 
 
-###SUb heading
+###Sub heading
 <hr>
 Demo to write Doc for Read me file
