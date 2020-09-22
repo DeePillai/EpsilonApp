@@ -2,6 +2,6 @@
 A demo on using Github
 
 
-##Sub heading
+### Sub heading
 <hr>
 Demo to write Doc for Read me file
